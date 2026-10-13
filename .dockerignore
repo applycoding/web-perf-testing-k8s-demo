@@ -1,0 +1,15 @@
+node_modules
+.next
+.git
+.github
+e2e
+k8s
+playwright-report
+test-results
+.lighthouseci
+**/*.test.ts
+playwright.config.ts
+jest.config.cjs
+lighthouserc.cjs
+README.md
+*.md
